@@ -18,15 +18,13 @@ Libraries
 ## Project
 Customizable virtual badge for personal use. This digital badge was created during the NLW/Heat event provided by Rocketseat.
 
-You can see the full project running here: https://lucassilvasoftware.github.io/virtual-badge/
+You can see the full project running here: https://github.com/lucassilvasoftware/virtual-badge
 
 ## Contributing
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: 54152996+lucassilvasoftware@users.noreply.github.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/lucassilvasoftware/)
+Open an issue on this repository or connect on [LinkedIn](https://www.linkedin.com/in/lucassilvasoftware/)
 
 Thank you!
 
